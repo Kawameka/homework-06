@@ -1,0 +1,1 @@
+This is the repo for homework 06. It includes both coding challenges, and a Rails app.
